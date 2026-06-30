@@ -1,0 +1,6 @@
+{
+  "name": "CondEntregas",
+  "description": "Controle Inteligente de Entregas e Encomendas para Condomínios com Banco de Dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
